@@ -1,6 +1,6 @@
 # Welcome
 
-<img src="D:\notebook\gjh.JPG" alt="gjh" style="zoom:50%;" />
+![](https://github.com/fexuile/VNote/blob/main/gjh.JPG)
 
 `qq:2165008534` | `fexuile@outlook.com`
 
