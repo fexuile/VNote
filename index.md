@@ -1,6 +1,6 @@
 # Welcome
 
-![](https://github.com/fexuile/VNote/blob/main/gjh.JPG)
+![](vx_images/409793822220745.jpg =250x)
 
 `qq:2165008534` | `fexuile@outlook.com`
 
